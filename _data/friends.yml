@@ -1,12 +1,12 @@
 - name: Link
-  image: https://atlinker.cn/avatar/avatar.png
-  url: https://atlinker.cn/
-  describe: Link's Blog
+image: https://atlinker.cn/avatar/avatar.png
+url: https://atlinker.cn/
+describe: Link's Blog. Thanks for her theme.
 
-- name: Daily
-  image: https://atlinker.cn/avatar/default.png
-  url: https：//linker.ml/daily/
-  describe: Daily
+#- name: Daily
+#  image: https://atlinker.cn/avatar/default.png
+#  url: https：//linker.ml/daily/
+#  describe: Daily
 
 # - name: Links Name
 #  image: http://example.com/img.png
